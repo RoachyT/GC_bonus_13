@@ -9,12 +9,12 @@ namespace bonus_13
 {
     class GameCharacter
     {
-        public string  _name;
-        public int _strength;
-        public int _intelligence;
-        public string _weaponType;
-        public int _spellNumber;
-        public int _magicalEnergy;
+        protected string  _name;
+        protected int _strength;
+        protected int _intelligence;
+        
+        
+       
 
         public GameCharacter(string name, int strength, int intelligence)
          {
@@ -25,7 +25,7 @@ namespace bonus_13
 
          }
 
-        public virtual void Play(int spellNumber, int magicalEnergy, string name, int strength, int intelligence, string weaponType)
+        public virtual void Play()
         {
             Console.WriteLine($"{_name}\'s strength is {_strength.ToString()} and intelligence is {_intelligence.ToString()}.");
 

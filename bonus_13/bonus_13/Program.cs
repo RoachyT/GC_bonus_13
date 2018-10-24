@@ -23,7 +23,7 @@ namespace bonus_13
 
             foreach (GameCharacter character in CharacterSet)
             {
-                character.Play(character._spellNumber, character._magicalEnergy, character._name, character._strength, character._intelligence, character._weaponType);
+                character.Play();
             }
             Console.ReadKey();
         }

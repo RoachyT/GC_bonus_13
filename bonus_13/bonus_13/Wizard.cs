@@ -8,14 +8,14 @@ namespace bonus_13
 {
     class Wizard : MagicUsingCharacter
     {
-        
+        public int _spellNumber;
 
         public Wizard(int spellNumber, int magicalEnergy, string name, int strength, int intelligence): base(magicalEnergy, name, strength,intelligence)
         {
             _spellNumber = spellNumber;
         }
 
-        public override void Play(int spellNumber, int magicalEnergy, string name, int strength, int intelligence, string weaponType)
+        public override void Play()
         {
             Console.WriteLine($"{_name}\'s strength is {_strength.ToString()}, " +
                 $"intelligence is {_intelligence.ToString()}, magical energy is {_magicalEnergy.ToString()}, and their spellnumber is {_spellNumber.ToString()}.");
