@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\bin\Debug\bonus_13.exe.config
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\bin\Debug\bonus_13.exe
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\bin\Debug\bonus_13.pdb
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\obj\Debug\bonus_13.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\obj\Debug\bonus_13.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\obj\Debug\bonus_13.exe
+C:\Users\rtoles\Desktop\GC_bonus13\bonus_13\bonus_13\obj\Debug\bonus_13.pdb
